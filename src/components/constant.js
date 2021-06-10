@@ -1,0 +1,7 @@
+const CANVAS_ELEMENT_WIDTH = 950; // 1350 - standard for monitor, 950 - for laptop
+const CANVAS_ELEMENT_HEIGHT = 850;
+const STEP_GRID = 25;
+const ANGLE_ARROW = 60;
+const WIDTH_AXIS = 3;
+
+export { CANVAS_ELEMENT_HEIGHT, CANVAS_ELEMENT_WIDTH, STEP_GRID, ANGLE_ARROW, WIDTH_AXIS };
